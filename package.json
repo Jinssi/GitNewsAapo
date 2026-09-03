@@ -1,0 +1,24 @@
+{
+  "name": "gitnews-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "GitNews API - changelog aggregation service (SECURITY DEMO REPO)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "0.21.0",
+    "ejs": "3.1.6",
+    "express": "4.17.1",
+    "jsonwebtoken": "8.5.1",
+    "lodash": "4.17.15",
+    "marked": "0.7.0",
+    "minimist": "1.2.0",
+    "mysql": "2.18.1",
+    "node-fetch": "2.6.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
