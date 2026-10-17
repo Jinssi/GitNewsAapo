@@ -16,7 +16,7 @@
     "marked": "0.7.0",
     "minimist": "1.2.0",
     "mysql": "2.18.1",
-    "node-fetch": "2.6.0"
+    "node-fetch": "3.3.2"
   },
   "engines": {
     "node": ">=18"
